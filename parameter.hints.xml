@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="com.example.trabalho_aula.OnSwipeTouchListener.OnSwipeTouchListener(ctx)" />
+        <added pattern="com.vanderlei.agenda.OnSwipeTouchListener.OnSwipeTouchListener(ctx)" />
       </blacklist>
     </blacklists>
   </component>
